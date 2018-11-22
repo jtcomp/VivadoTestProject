@@ -1,0 +1,12 @@
+*
+!*.c
+!*.xci
+!*.xml
+!*.tcl
+!*.v
+!*.vhdl
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*/
